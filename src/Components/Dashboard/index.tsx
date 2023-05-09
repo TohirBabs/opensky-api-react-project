@@ -24,6 +24,7 @@ import Typography from "@mui/material/Typography";
 import { useNavigate } from "react-router";
 
 import { Avatar, Card, CardHeader, Grid } from "@mui/material";
+import DataTable from "./DataTable";
 
 const drawerWidth = 240;
 
@@ -212,7 +213,7 @@ export default function Dashboard(props: Props) {
             </Card>
           </Grid>
           <Grid item xs={12}>
-            <>Flight Data Table</>
+            <DataTable />
           </Grid>
         </Grid>
       </Box>
