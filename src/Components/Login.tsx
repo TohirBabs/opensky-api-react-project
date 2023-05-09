@@ -11,6 +11,7 @@ import Grid from "@mui/material/Grid";
 import VisibilityIcon from "@mui/icons-material/VisibilityOutlined";
 import VisibilityOffIcon from "@mui/icons-material/VisibilityOffOutlined";
 import Typography from "@mui/material/Typography";
+import { useNavigate } from "react-router";
 import {
   FormControl,
   IconButton,
@@ -38,6 +39,7 @@ function Copyright(props: any) {
 }
 
 export default function Login() {
+  const navigate = useNavigate();
   const [showPassword, setShowPassword] = React.useState(false);
 
   const handleClickShowPassword = () => {
@@ -51,7 +53,7 @@ export default function Login() {
       data.get("email") == "traveler@gmail.com" &&
       data.get("password") == "iloveflying"
     ) {
-      // navigate yo dashbosrd
+      navigate("dashboard");
     } else {
       alert("Incorrect login details");
     }
