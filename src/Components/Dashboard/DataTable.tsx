@@ -129,7 +129,7 @@ export default function DataTable() {
 
   console.log(tableData);
 
-  const handleChangePage = (newPage: number) => {
+  const handleChangePage = (event: unknown, newPage: number) => {
     setPage(newPage);
   };
 
