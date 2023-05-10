@@ -4,7 +4,7 @@ opensky-api-react-project is an assessment project for a job application. It is 
 
 ## Project layout
 
-[HAMOYE JOB ASSESSMENT]([https://choosealicense.com/licenses/mit/](https://gist.github.com/Hamoye/a3c0d694629f1944967897f42380b93d))
+[HAMOYE JOB ASSESSMENT](https://choosealicense.com/licenses/mit/](https://gist.github.com/Hamoye/a3c0d694629f1944967897f42380b93d)
 
 
 
