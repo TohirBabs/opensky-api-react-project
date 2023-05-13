@@ -8,7 +8,13 @@ opensky-api-react-project is an assessment project for a job application. It is 
 
 ## Project Notes
 
-###Login details
-
+Login details
 email: traveler@gmail.com
 password: iloveflying
+
+### Built With
+
+- [![React][React.js]][React-url]
+- [![MaterialUI][mui.com]][Svelte-url]
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
