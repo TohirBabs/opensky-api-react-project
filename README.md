@@ -1,17 +1,14 @@
 # opensky-api-react-project
 
-opensky-api-react-project is an assessment project for a job application. It is a simple project that displays flight data from the opensky API in a simple UI.
+opensky-api-react-project is an assessment project for a job application. It is a simple react project that displays flight data from the opensky API in a simple UI.
 
-## Project layout
+## Project link
 
-[HAMOYE JOB ASSESSMENT]([https://gist.github.com/Hamoye/a3c0d694629f1944967897f42380b93d])
-
-
+[HAMOYE JOB ASSESSMENT](https://gist.github.com/Hamoye/a3c0d694629f1944967897f42380b93d)
 
 ## Project Notes
 
-Pull requests are welcome. For major changes, please open an issue first
-to discuss what you would like to change.
+###Login details
 
-Please make sure to update tests as appropriate.
-
+email: traveler@gmail.com
+password: iloveflying
