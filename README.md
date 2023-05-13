@@ -14,7 +14,6 @@ password: iloveflying
 
 ### Built With
 
-- [![React][React.js]][React-url]
-- [![MaterialUI][mui.com]][Svelte-url]
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+- ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+- ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
+- ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
